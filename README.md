@@ -2,4 +2,6 @@
 
 #candace and lucas for the win
 
-*working on edits checking 
+*working on edits checking
+
+#edits worked!
